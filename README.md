@@ -1,6 +1,10 @@
-# Prompt Engineer Interview Questions 🧩
+<div align="center">
+  <img src="assets/banner.svg" alt="Awesome Prompt Engineer Interview Questions Banner">
+</div>
 
-A curated, community-driven collection of interview questions (with model answers, frameworks, and explanations) for **Prompt Engineer / AI Interaction Designer** roles — spanning startups, foundation model labs, and enterprise AI teams.
+# 🚀 Awesome Prompt Engineer Interview Questions 🧩
+
+✨ A curated, community-driven collection of interview questions (with model answers, frameworks, and explanations) for **Prompt Engineer / AI Interaction Designer** roles — spanning startups, foundation model labs, and enterprise AI teams.
 
 This is not a list of trivia. Every question includes:
 - **Why interviewers ask it**
@@ -15,14 +19,14 @@ This is not a list of trivia. Every question includes:
 
 | # | Category | What it covers |
 |---|----------|-----------------|
-| 1 | [Prompting Fundamentals](questions/01-prompting-fundamentals.md) | Core techniques: zero/few-shot, instructions, roles, formatting |
-| 2 | [Advanced Prompting Techniques](questions/02-advanced-prompting-techniques.md) | Chain-of-thought, ReAct, self-consistency, decomposition, agents |
-| 3 | [LLM Technical Fundamentals](questions/03-llm-technical-fundamentals.md) | Tokenization, context windows, sampling params, model internals a prompt engineer must know |
-| 4 | [Evaluation & Testing](questions/04-evaluation-and-testing.md) | Building eval sets, automated grading, regression testing prompts |
-| 5 | [Retrieval-Augmented Generation (RAG)](questions/05-rag-and-grounding.md) | Grounding prompts in retrieved data, chunking, citation |
-| 6 | [Safety, Robustness & Jailbreaks](questions/06-safety-robustness-jailbreaks.md) | Prompt injection, jailbreak defense, adversarial testing |
-| 7 | [Production & Tooling](questions/07-production-and-tooling.md) | Prompt versioning, deployment, cost/latency optimization, observability |
-| 8 | [Behavioral & Case Studies](questions/08-behavioral-and-case-studies.md) | Real-world scenarios, cross-functional collaboration, debugging exercises |
+| 1 | 💡 [Prompting Fundamentals](questions/01-prompting-fundamentals.md) | Core techniques: zero/few-shot, instructions, roles, formatting |
+| 2 | 🧠 [Advanced Prompting Techniques](questions/02-advanced-prompting-techniques.md) | Chain-of-thought, ReAct, self-consistency, decomposition, agents |
+| 3 | ⚙️ [LLM Technical Fundamentals](questions/03-llm-technical-fundamentals.md) | Tokenization, context windows, sampling params, model internals a prompt engineer must know |
+| 4 | 📊 [Evaluation & Testing](questions/04-evaluation-and-testing.md) | Building eval sets, automated grading, regression testing prompts |
+| 5 | 🔎 [Retrieval-Augmented Generation (RAG)](questions/05-rag-and-grounding.md) | Grounding prompts in retrieved data, chunking, citation |
+| 6 | 🛡️ [Safety, Robustness & Jailbreaks](questions/06-safety-robustness-jailbreaks.md) | Prompt injection, jailbreak defense, adversarial testing |
+| 7 | 🛠️ [Production & Tooling](questions/07-production-and-tooling.md) | Prompt versioning, deployment, cost/latency optimization, observability |
+| 8 | 👥 [Behavioral & Case Studies](questions/08-behavioral-and-case-studies.md) | Real-world scenarios, cross-functional collaboration, debugging exercises |
 
 Also see: [resources.md](resources.md) for external reading, papers, and communities.
 
@@ -30,18 +34,18 @@ Also see: [resources.md](resources.md) for external reading, papers, and communi
 
 ## 🧭 How to Use This Repo
 
-- **Cramming for an interview next week?** Read Prompting Fundamentals (1), Evaluation (4), and Safety (6) first — these show up in nearly every loop, regardless of company.
-- **Coming from a software engineering background?** Spend more time on Prompting Fundamentals (1) and Behavioral (8) — interviewers will assume technical competence and want to see prompting-specific judgment and craft.
-- **Coming from a linguistics / content / non-engineering background?** Prioritize LLM Technical Fundamentals (3) and Production & Tooling (7) so you can speak credibly about system constraints.
-- **Interviewing at a foundation model lab** (Anthropic, OpenAI, etc.)? Focus heavily on sections 4 (Evaluation), 6 (Safety), and 2 (Advanced Techniques) — labs weight rigor and safety awareness heavily.
-- **Interviewing at a company building products on top of APIs**? Focus on section 7 (Production & Tooling) and section 5 (RAG) — most roles here are about shipping reliable prompt-driven features, not model research.
+- ⏳ **Cramming for an interview next week?** Read Prompting Fundamentals (1), Evaluation (4), and Safety (6) first — these show up in nearly every loop, regardless of company.
+- 💻 **Coming from a software engineering background?** Spend more time on Prompting Fundamentals (1) and Behavioral (8) — interviewers will assume technical competence and want to see prompting-specific judgment and craft.
+- ✍️ **Coming from a linguistics / content / non-engineering background?** Prioritize LLM Technical Fundamentals (3) and Production & Tooling (7) so you can speak credibly about system constraints.
+- 🧪 **Interviewing at a foundation model lab** (Anthropic, OpenAI, etc.)? Focus heavily on sections 4 (Evaluation), 6 (Safety), and 2 (Advanced Techniques) — labs weight rigor and safety awareness heavily.
+- 🏗️ **Interviewing at a company building products on top of APIs**? Focus on section 7 (Production & Tooling) and section 5 (RAG) — most roles here are about shipping reliable prompt-driven features, not model research.
 
 Each question is tagged with a rough difficulty and role-level indicator:
 - 🟢 Junior/Associate · 🟡 Mid-level · 🔴 Senior/Lead/Principal
 
 ---
 
-## 🗂 Repo Structure
+## 🗂️ Repo Structure
 
 ```
 prompt-engineer-interview-questions/
