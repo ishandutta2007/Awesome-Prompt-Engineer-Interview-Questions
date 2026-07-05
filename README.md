@@ -1,10 +1,12 @@
 <div align="center">
   <img src="assets/banner.svg" alt="Awesome Prompt Engineer Interview Questions Banner">
+  <br>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </div>
 
 # 🚀 Awesome Prompt Engineer Interview Questions 🧩
 
-✨ A curated, community-driven collection of interview questions (with model answers, frameworks, and explanations) for **Prompt Engineer / AI Interaction Designer** roles — spanning startups, foundation model labs, and enterprise AI teams.
+✨ A curated, community-driven collection of interview questions (with model answers, frameworks, and explanations) for **Prompt Engineer / AI Interaction Designer** roles — spanning startups, foundation model labs, and enterprise AI teams. Master prompt engineering for ChatGPT, Claude, and LLMs with this comprehensive, SEO-optimized guide to AI interview preparation.
 
 This is not a list of trivia. Every question includes:
 - **Why interviewers ask it**
